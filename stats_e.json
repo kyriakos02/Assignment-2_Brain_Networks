@@ -1,0 +1,7 @@
+{
+  "total_nodes": 102757,
+  "total_edges": 310090,
+  "average_degree": 6.035403914088578,
+  "average_clustering_excluding_degree_1": 0.2260424373316839,
+  "average_clustering_including_degree_1 (FYI)": 0.1680057330281151
+}
